@@ -1,16 +1,16 @@
-### Hi there 👋
+### Opa, me chamo Henrique! 👋
+- 🙃Tenho 18 anos.
+- 🔒Estudante iniciante de Hacking e Segurança Cibernética.
+- 👨‍💻Pretendo iniciar minha graduação de Defesa Cibernética em 2024 (Atualmente estudando por meio de cursos e conhecimento disponível na internet).
+- 🛡️Estou focando em Segurança ofensiva (Red Team), onde pretendo seguir na carreira profissional.
 
-<!--
-**H3nriqueL1ma/H3nriqueL1ma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=H3nriqueL1ma&show_icons=true&theme=tokyonight)](https://github.com/H3nriqueL1ma/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H3nriqueL1ma&layout=compact)](https://github.com/H3nriqueL1ma/github-readme-stats)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+<div style="display: inline_block"><br>
+  <img alt="Python" align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="JavaScript" align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="HTML" align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img alt="CSS" align="center" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+</div>
