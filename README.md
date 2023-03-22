@@ -1,10 +1,10 @@
 ### Opa, me chamo Henrique! 👋
 
 ## Sobre mim
-- 🙃Tenho 18 anos.
-- 🔒Estudante iniciante de Hacking e Segurança Cibernética.
-- 👨‍💻Pretendo iniciar minha graduação de Defesa Cibernética em 2024 (Atualmente estudando por meio de cursos e conhecimento disponível na internet).
-- 🛡️Estou focando em Segurança ofensiva (Red Team), onde pretendo seguir na carreira profissional.
+- 🙃 Tenho 18 anos.
+- 🔒 Estudante iniciante de Hacking e Segurança Cibernética.
+- 👨‍💻 Pretendo iniciar minha graduação de Defesa Cibernética em 2024 (Atualmente estudando por meio de cursos e conhecimento disponível na internet).
+- 🛡️ Estou focando em Segurança ofensiva (Red Team), onde pretendo seguir na carreira profissional.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=H3nriqueL1ma&show_icons=true&theme=tokyonight)](https://github.com/H3nriqueL1ma/github-readme-stats)
 
