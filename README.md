@@ -7,7 +7,7 @@
 
 - 🔒 Beginner student of Hacking and Cybersecurity. I'm focusing on Offensive Security (Red Team), where I intend to pursue my professional career
 
-- 👨‍💻 My portfolio [https://h3nriquel1ma.github.io/projetos/](https://h3nriquel1ma.github.io/siteportfolio/)
+- 👨‍💻 My portfolio [https://h3nriquel1ma.github.io/siteportfolio/](https://h3nriquel1ma.github.io/siteportfolio/)
 
 - 🔐 I intend to start my Cyber ​​Defense graduation in 2024 (Currently studying through courses and knowledge available on the internet)
 
