@@ -9,7 +9,7 @@
 
 - 👨‍💻 Meu portfolio [https://h3nriquel1ma.github.io/siteportfolio/](https://h3nriquel1ma.github.io/siteportfolio/)
 
-- 🔐 Pretendo iniciar minha graduação em Defesa Cibernética em 2024 (Atualmente cursando através de cursos e conhecimentos disponíveis na internet)
+- 🔐 Pretendo iniciar minha graduação de Defesa Cibernética em 2024 (Atualmente cursando através de cursos e conhecimentos disponíveis na internet)
 
 - 📫 Contato **henriquecarlos_lima@proton.me**
 
