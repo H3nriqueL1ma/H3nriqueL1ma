@@ -32,7 +32,7 @@
 
 <h3 align="left">Studying:</h3>
 <p align="left">
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
 </p>
 
 
