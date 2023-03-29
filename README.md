@@ -1,5 +1,3 @@
-<img width="300px" align='right' src='https://raw.githubusercontent.com/gist/H3nriqueL1ma/ff2178ee29432a9ea84b642510e3d316/raw/aeb696da759a3181c44ffd6fff94a1dad0682e33/githubcard.svg'/>
-
 <h1 align="center">Olá 👋, me chamo Henrique</h1>
 <h3 align="center">Apaixonado por hacking e cibersegurança em geral</h3>
 
