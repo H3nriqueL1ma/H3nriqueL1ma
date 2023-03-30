@@ -35,7 +35,6 @@
 </p>
 
 <h3 align="left">Interessado 🔍:</h3>
-<h1></h1>
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"/>
@@ -46,7 +45,7 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel"/>
 </p>
-
+<h1></h1>
 <div align="center">  
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=H3nriqueL1ma&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Henrique github stats" /> 
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3nriqueL1ma&layout=compact&hide_border=true&theme=tokyonight" />
