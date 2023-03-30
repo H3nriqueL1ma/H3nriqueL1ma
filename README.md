@@ -46,8 +46,8 @@
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel"/>
 </p>
 
-<p align='left'>
-<img width='490em' align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=h3nriquel1ma&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="h3nriquel1ma" />
-<img width='490em' align="left" src="https://github-readme-stats.vercel.app/api?username=h3nriquel1ma&show_icons=true&locale=en&theme=tokyonight" alt="h3nriquel1ma" />
-<img src="https://github-profile-trophy.vercel.app/?username=h3nriquel1ma&theme=tokyonight&column=3" alt="h3nriquel1ma" />
+<p align='center'>
+<img width='460em' align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=h3nriquel1ma&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="h3nriquel1ma" />
+<img width='512em' align="right" src="https://github-readme-stats.vercel.app/api?username=h3nriquel1ma&show_icons=true&locale=en&theme=tokyonight" alt="h3nriquel1ma" />
+<img src="https://github-profile-trophy.vercel.app/?username=h3nriquel1ma&theme=tokyonight&columm=6" alt="h3nriquel1ma" />
 </p>
