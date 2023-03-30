@@ -46,8 +46,13 @@
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel"/>
 </p>
 
-<p align='center'>
-<img width='400px' align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=h3nriquel1ma&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="h3nriquel1ma" />
-<img width='400px' align="right" src="https://github-readme-stats.vercel.app/api?username=h3nriquel1ma&show_icons=true&locale=en&theme=tokyonight" alt="h3nriquel1ma" />
-<img src="https://github-profile-trophy.vercel.app/?username=h3nriquel1ma&theme=tokyonight&columm=6" alt="h3nriquel1ma" />
+<div align="center">  
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=H3nriqueL1ma&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Henrique github stats" /> 
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3nriqueL1ma&layout=compact&hide_border=true&theme=tokyonight" />
+  
+  <a href="http://www.github.com/H3nriqueL1ma"><img src="https://github-readme-streak-stats.herokuapp.com/?user=H3nriqueL1ma&theme=tokyonight&hide_border=true" /></a>
+</div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=H3nriqueL1ma&theme=tokyonight&row=1&no-bg=true&column=6&margin-w=15&margin-h=15" />
 </p>
