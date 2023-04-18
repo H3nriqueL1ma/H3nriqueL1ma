@@ -44,8 +44,8 @@
 </p>
 <h1></h1>
 <div align="center">  
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=H3nriqueL1ma&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Henrique github stats" /> 
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3nriqueL1ma&layout=compact&hide_border=true&theme=tokyonight" />
+  <img width="45%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=H3nriqueL1ma&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Henrique github stats" /> 
+  <img width="45%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=H3nriqueL1ma&layout=compact&hide_border=true&theme=tokyonight" />
   
   <a href="http://www.github.com/H3nriqueL1ma"><img src="https://github-readme-streak-stats.herokuapp.com/?user=H3nriqueL1ma&theme=tokyonight&hide_border=true" /></a>
 </div>
