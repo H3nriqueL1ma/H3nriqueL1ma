@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"/>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin"/>
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="shellscript"/>
-  [!(https://img.shields.io/badge/-ASSEMBLY-lightgrey?style=for-the-badge&logo=assembly)]
+  <img src="https://img.shields.io/badge/-ASSEMBLY-lightgrey?style=for-the-badge&logo=rotaryinternational&logoColor=white" alt="assembly"/>
 </p>
 <h1></h1>
 <div align="center">  
