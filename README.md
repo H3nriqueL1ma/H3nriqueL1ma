@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h3nriquel1ma&label=Profile%20views&color=0e75b6&style=flat" alt="h3nriquel1ma" /> </p>
 
-<img width="250px" align="right" src="https://github.com/H3nriqueL1ma/H3nriqueL1ma/blob/main/GIF.gif" alt="gif-hacker"/>
+<img width="230px" align="right" src="https://github.com/H3nriqueL1ma/H3nriqueL1ma/blob/main/GIF.gif" alt="gif-hacker"/>
 
 - 🔒 Beginner student of Hacking and Cybersecurity. I am focusing on Offensive Security (Red Team), where I intend to pursue my professional career
 
