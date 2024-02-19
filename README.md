@@ -5,7 +5,7 @@
 
 <img width="230px" align="right" src="https://github.com/H3nriqueL1ma/H3nriqueL1ma/blob/main/GIF.gif" alt="gif-hacker"/>
 
-- 🔒 Beginner student of Hacking and Cybersecurity. I am focusing on Offensive Security (Red Team), where I intend to pursue my professional career
+- 🔒 Beginner student of Hacking and Cybersecurity
 
 - 👨‍💻 My portfolio [https://h3nriquel1ma.github.io/siteportfolio-in-maintenance/](https://h3nriquel1ma.github.io/siteportfolio-in-maintenance/)
 
