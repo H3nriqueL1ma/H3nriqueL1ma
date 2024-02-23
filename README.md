@@ -9,8 +9,6 @@
 
 - 👨‍💻 My portfolio [https://h3nriquel1ma.github.io/siteportfolio-in-maintenance/](https://h3nriquel1ma.github.io/siteportfolio-in-maintenance/)
 
-- 🔐 I intend to start my Cyber ​​Defense graduation in 2024 (Currently studying through courses and knowledge available on the internet)
-
 - 📫 Contact **henriquecarlos_lima@proton.me**
 
 - ⚡ I'm 18 years old
