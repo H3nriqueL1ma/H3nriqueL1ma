@@ -1,4 +1,12 @@
-<h1 align="center">Hello 👋, i'm Henrique</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 align="center">Hello 👋, i'm Henrique</h1>
 <h3 align="center">Passionate about hacking and cybersecurity in general</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h3nriquel1ma&label=Profile%20views&color=0e75b6&style=flat" alt="h3nriquel1ma" /> </p>
@@ -59,13 +67,20 @@
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="next"/>
 </p>
 <h1></h1>
-<div align="center">  
-  <img width="45%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=H3nriqueL1ma&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Henrique github stats" /> 
-  <img width="45%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=H3nriqueL1ma&layout=compact&hide_border=true&theme=tokyonight" />
-  
-  <a href="http://www.github.com/H3nriqueL1ma"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=H3nriqueL1ma&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10" /></a>
+<div align="center" style="display: flex; flex-direction: row;">
+    <div align="left" style="margin: auto;">
+        <img width="81%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=H3nriqueL1ma&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Henrique github stats" /><br> 
+        <img height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=H3nriqueL1ma&layout=compact&hide_border=true&theme=tokyonight" />
+    </div> 
+    
+    <div align="right" style="margin: auto;">
+        <a href="http://www.github.com/H3nriqueL1ma"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=H3nriqueL1ma&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10" /></a>
+    </div>
 </div>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=H3nriqueL1ma&theme=tokyonight&row=1&no-bg=true&column=6&margin-w=15&margin-h=15" />
 </p>
+
+</body>
+</html>
