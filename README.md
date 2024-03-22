@@ -53,6 +53,7 @@
 <h3 align="left">Studying 📖:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/-ASSEMBLY-lightgrey?style=for-the-badge&logo=rotaryinternational&logoColor=white" alt="assembly"/>
+    <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
 </p>
 
 <h3 align="left">Interested 🔍:</h3>
