@@ -67,15 +67,17 @@
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="next"/>
 </p>
 <h1></h1>
-<div align="center" style="display: flex; flex-direction: row;">
-    <div align="left" style="margin: auto;">
-        <img width="81%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=H3nriqueL1ma&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Henrique github stats" /><br> 
-        <img width="81%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=H3nriqueL1ma&theme=tokyonight&hide_border=false" />
-    </div> 
-    <div align="right" style="margin: auto;">
-        <a href="http://www.github.com/H3nriqueL1ma"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=H3nriqueL1ma&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10" /></a>
-    </div>
-</div>
+<table align="center">
+        <tr>
+            <td width="50%" align="center">
+                <img width="81%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=H3nriqueL1ma&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Henrique github stats" /><br> 
+                <img width="81%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=H3nriqueL1ma&theme=tokyonight&hide_border=false" />
+            </td>
+            <td width="50%" align="center">
+                <a href="http://www.github.com/H3nriqueL1ma"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=H3nriqueL1ma&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10" /></a>
+            </td>
+        </tr>
+</table>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=H3nriqueL1ma&theme=tokyonight&row=1&no-bg=true&column=6&margin-w=15&margin-h=15" />
