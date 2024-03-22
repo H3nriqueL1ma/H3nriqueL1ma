@@ -70,7 +70,7 @@
 <div align="center" style="display: flex; flex-direction: row;">
     <div align="left" style="margin: auto;">
         <img width="81%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=H3nriqueL1ma&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Henrique github stats" /><br> 
-        <img height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=H3nriqueL1ma&layout=compact&hide_border=true&theme=tokyonight" />
+        <img width="81%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=H3nriqueL1ma&theme=tokyonight&hide_border=false" />
     </div> 
     
     <div align="right" style="margin: auto;">
