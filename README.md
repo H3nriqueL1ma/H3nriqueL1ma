@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <h1 align="center">Hello 👋, i'm Henrique</h1>
+<h1 align="center">Hello 👋, i'm Henrique</h1>
 <h3 align="center">Passionate about hacking and cybersecurity in general</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h3nriquel1ma&label=Profile%20views&color=0e75b6&style=flat" alt="h3nriquel1ma" /> </p>
@@ -39,6 +31,7 @@
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="prisma"/>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="node"/>
   <img src="https://img.shields.io/badge/postcss-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white" alt="postcss"/>
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" alt="webpack"/>
   
   <strong>Databases</strong><br> 
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
