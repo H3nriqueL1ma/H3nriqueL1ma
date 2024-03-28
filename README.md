@@ -1,11 +1,11 @@
 <h1 align="center">Hello 👋, i'm Henrique</h1>
-<h3 align="center">Passionate about hacking and cybersecurity in general</h3>
+<h3 align="center">Passionate about development, especially backend</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h3nriquel1ma&label=Profile%20views&color=0e75b6&style=flat" alt="h3nriquel1ma" /> </p>
 
-<img width="230px" align="right" src="https://github.com/H3nriqueL1ma/H3nriqueL1ma/blob/main/GIF.gif" alt="gif-hacker"/>
+<img width="230px" align="right" src="https://github.com/H3nriqueL1ma/H3nriqueL1ma/blob/main/GIF.gif" alt="gif"/>
 
-- 🔒 Beginner student of Hacking and Cybersecurity
+- 🔒 Beginner student of development
 
 - 👨‍💻 My portfolio [https://h3nriquel1ma.github.io/siteportfolio-in-maintenance/](https://h3nriquel1ma.github.io/siteportfolio-in-maintenance/)
 
