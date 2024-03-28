@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h3nriquel1ma&label=Profile%20views&color=0e75b6&style=flat" alt="h3nriquel1ma" /> </p>
 
-<img width="400px" align="right" src="https://github.com/H3nriqueL1ma/H3nriqueL1ma/blob/main/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="gif"/>
+<img width="350px" align="right" src="https://github.com/H3nriqueL1ma/H3nriqueL1ma/blob/main/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="gif"/>
 
 - 👨‍💻 My portfolio [https://h3nriquel1ma.github.io/siteportfolio-in-maintenance/](https://h3nriquel1ma.github.io/siteportfolio-in-maintenance/)
 
