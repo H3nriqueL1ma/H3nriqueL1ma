@@ -1,9 +1,11 @@
+<img src="https://github.com/H3nriqueL1ma/H3nriqueL1ma/blob/main/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" alt="gif"/>
+
 <h1 align="center">Hello 👋, i'm Henrique</h1>
 <h3 align="center">Passionate about Web Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h3nriquel1ma&label=Profile%20views&color=0e75b6&style=flat" alt="h3nriquel1ma" /> </p>
 
-<img width="230px" align="right" src="https://github.com/H3nriqueL1ma/H3nriqueL1ma/blob/main/GIF.gif" alt="gif"/>
+<img width="400px" align="right" src="https://github.com/H3nriqueL1ma/H3nriqueL1ma/blob/main/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="gif"/>
 
 - 👨‍💻 My portfolio [https://h3nriquel1ma.github.io/siteportfolio-in-maintenance/](https://h3nriquel1ma.github.io/siteportfolio-in-maintenance/)
 
