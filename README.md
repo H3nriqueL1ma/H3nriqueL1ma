@@ -41,7 +41,6 @@
 
 <h5 align="left">Hobbies 💡:</h5>
 <code><img src="https://img.shields.io/badge/_-ASM-6E4C13.svg?style=for-the-badge"/></code>
-<code><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/></code>
 <h1></h1>
 
 <table align="center">
