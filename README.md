@@ -30,14 +30,10 @@
 <h5 align="left">Frameworks, libraries and other techs:</h5>
 <code><img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white"/></code>
-<p></p>
-<code><img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></code>
-<code><img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></code>
 <p></p>
+<code><img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></code>
-<code><img src="https://img.shields.io/badge/postcss-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white"></code>
-<code><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></code>
 
 <h5 align="left">Hobbies 💡:</h5>
 <code><img src="https://img.shields.io/badge/_-ASM-6E4C13.svg?style=for-the-badge"/></code>
