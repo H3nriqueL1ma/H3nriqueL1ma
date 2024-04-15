@@ -15,29 +15,22 @@
 **About Me**
 
 - 👨‍💻 My portfolio [https://h3nriquel1ma.github.io/siteportfolio-in-maintenance/](https://h3nriquel1ma.github.io/siteportfolio-in-maintenance/)
-- 📚 Studying the Backend environment with Node.js and its frameworks.
+- 📚 Studying the Backend environment.
+- Programming Languages:
+  - JavaScript
+  - TypeScript
+  - Assembly
+- Frameworks and Libraries:
+  - React
+  - Next
+  - Bootstrap
+  - Fastify
+- Databases:
+  - PostgreSQL
+  - MySQL
 
-**Languages and Technologies**  
-
-<h5 align="left">Languages:</h5>
-<code><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></code>
-<code><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
-
-<h5 align="left">Databases:</h5>
-<code><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></code>
-<code><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></code>
-
-<h5 align="left">Frameworks, libraries and other techs:</h5>
-<code><img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></code>
-<p></p>
-<code><img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></code>
-
-<h5 align="left">Hobbies 💡:</h5>
-<code><img src="https://img.shields.io/badge/_-ASM-6E4C13.svg?style=for-the-badge"/></code>
-<h1></h1>
+<br />
+<br />
 
 <table align="center">
         <tr>
