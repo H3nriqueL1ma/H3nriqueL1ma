@@ -1,5 +1,3 @@
-<img src="https://github.com/H3nriqueL1ma/H3nriqueL1ma/blob/main/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" alt="gif"/>
-
 <h1 align="center">Hello 👋, I'm Henrique</h1>
 
 <h3 align="center">Passionate about Web Development</h3>
