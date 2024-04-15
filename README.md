@@ -1,10 +1,3 @@
-<h1 align="center">Hello 👋, I'm Henrique</h1>
-
-<h3 align="center">Passionate about Web Development</h3>
-
-<br />
-<br />
-
 **BEGINNER BACKEND DEVELOPER** 🚀
  
 
@@ -12,6 +5,7 @@
  
 **About Me**
 
+- Hello 👋, I'm Henrique
 - 👨‍💻 My portfolio [https://h3nriquel1ma.github.io/siteportfolio-in-maintenance/](https://h3nriquel1ma.github.io/siteportfolio-in-maintenance/)
 - 📚 Studying the Backend environment.
 - Programming Languages:
