@@ -7,7 +7,7 @@
 
 - Hello 👋, I'm Henrique
 - 👨‍💻 My portfolio [https://h3nriquel1ma.github.io/siteportfolio-in-maintenance/](https://h3nriquel1ma.github.io/siteportfolio-in-maintenance/)
-- 📚 Studying the Backend environment.
+- 📚 Studying the Software environment.
 - Programming Languages:
   - JavaScript
   - TypeScript
