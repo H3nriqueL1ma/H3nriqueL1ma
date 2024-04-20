@@ -1,5 +1,8 @@
 <img width="350px" align="right" src="https://github.com/H3nriqueL1ma/H3nriqueL1ma/blob/main/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" alt="gif"/>
 
+<br>
+<br>
+
 - Hello 👋, I'm Henrique
 - 👨‍💻 My portfolio (https://h3nriquel1ma.github.io/siteportfolio-in-maintenance/)
 - Software Developer, focusing in Low-level development and desktop applications
