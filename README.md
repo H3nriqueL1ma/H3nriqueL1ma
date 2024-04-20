@@ -5,6 +5,13 @@
 - Software Developer, focusing in Low-level development and desktop applications
 - 📚 Studying Operating System Architecture, Web development (frontend and backend), System Softwares and Desktop Apps.
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 **Techs ⚙️**
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
