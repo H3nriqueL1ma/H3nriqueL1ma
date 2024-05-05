@@ -2,11 +2,9 @@
 
 <h1>Hello 👋, I'm Henrique</h1>
 - Software Developer, focusing in Low-level development and desktop applications
+<br>
 - 📚 Studying Operating System Architecture, Web development (frontend and backend), System Softwares and Desktop Apps.
 
-<br>
-<br>
-<br>
 <br>
 <br>
 
