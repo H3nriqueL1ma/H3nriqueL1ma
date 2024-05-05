@@ -1,9 +1,6 @@
-<img width="350px" align="right" src="https://github.com/H3nriqueL1ma/H3nriqueL1ma/blob/main/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" alt="gif"/>
 
-<br>
 
-- Hello 👋, I'm Henrique
-- 👨‍💻 My portfolio (https://h3nriquel1ma.github.io/siteportfolio-in-maintenance/)
+<h1>Hello 👋, I'm Henrique</h1>
 - Software Developer, focusing in Low-level development and desktop applications
 - 📚 Studying Operating System Architecture, Web development (frontend and backend), System Softwares and Desktop Apps.
 
@@ -24,8 +21,8 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white"
 </div>
 
-<br />
-<br />
+<br>
+<br>
 
 <table align="center">
         <tr>
@@ -38,7 +35,3 @@
             </td>
         </tr>
 </table>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=H3nriqueL1ma&theme=tokyonight&row=1&no-bg=true&column=6&margin-w=15&margin-h=15" />
-</p>
