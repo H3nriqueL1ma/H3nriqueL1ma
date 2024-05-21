@@ -2,7 +2,7 @@
 
 -------------------
 
-  - Software Developer, focusing in Low-level development, desktop applications and back-end development.
+  - Back-end Developer, focusing in back-end development. And Low-level development and desktop applications for hobby.
 
 ### Studying:
   - Operating System Architecture<br>
