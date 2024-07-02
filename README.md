@@ -2,12 +2,7 @@
 
 -------------------
 
-  - Back-end Developer, focusing in back-end development. And Low-level development and desktop applications for hobby.
-
-### Studying:
-  - Operating System Architecture<br>
-  - Web development (back-end)<br>
-  - System Softwares and Desktop Apps<br>
+  - Back-end Developer.
 
 ### Portfolio: https://henriquedev.onrender.com/
 
