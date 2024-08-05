@@ -3,6 +3,7 @@
 -------------------
 
   - Back-end Developer.
+  - Minecraft Mod Developer.
 
 ### Portfolio: https://henriquedev.vercel.app/
 
