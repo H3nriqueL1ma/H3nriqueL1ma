@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width=700>
+  <img src="banner.png" width=600>
 </p>
 <p>
   <samp>
