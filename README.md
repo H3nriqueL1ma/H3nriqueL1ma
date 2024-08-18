@@ -1,7 +1,8 @@
 <p>
   <samp>
       - backend developer<br>
-      - minecraft mod developer<br><br>
+      - minecraft mod developer<br>
+      - linux power user<br><br>
       skills:<br>
         - langs: javascript, typescript, java.<br>
         - techs: spring framework, express.js, mySQL, postgreSQL, docker, react.js, next.js, angular, bootstrap.<br>
