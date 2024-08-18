@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" width=700>
+</p>
 <p>
   <samp>
       - backend developer<br>
