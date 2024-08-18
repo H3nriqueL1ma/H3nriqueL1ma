@@ -1,6 +1,6 @@
 <p align="center">
   <img src="banner7.png">
-</p>
+</p><br>
 <p>
   <samp>
       - backend developer<br>
