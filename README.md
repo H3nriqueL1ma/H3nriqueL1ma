@@ -12,7 +12,7 @@
         - tools: intellij, apidog, postman, visual studio code.<br><br>
       portfolio: https://henriquedev.vercel.app/
   </samp>
-</p>
+</p><br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3nriqueL1ma&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=fff&bg_color=000000" height=170/>
