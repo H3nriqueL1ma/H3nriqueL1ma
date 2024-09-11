@@ -4,7 +4,7 @@
 <p>
   <samp>
       - backend developer<br>
-      - minecraft mod developer<br>
+      - minecraft mod & plugin developer<br>
       - linux power user<br><br>
       skills:<br>
         - langs: javascript, typescript, java.<br>
