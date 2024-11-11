@@ -5,7 +5,8 @@
   <samp>
       - backend developer<br>
       - minecraft mod & plugin developer<br>
-      - linux power user<br><br>
+      - linux power user<br>
+      - amateur information security enthusiast<br><br>
       skills:<br>
         - langs: javascript, typescript, java.<br>
         - techs: spring framework, express.js, mySQL, postgreSQL, docker, react.js, next.js, angular, bootstrap.<br>
